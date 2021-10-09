@@ -49,6 +49,7 @@
 
 - [Creating a data driven organizations](https://www.oreilly.com/library/view/creating-a-data-driven/9781491916902/)
 
+- [DataMesh](https://www.oreilly.com/library/view/data-mesh/9781492092384/)
 
 ## Arquitetura Moderna de dados
 
