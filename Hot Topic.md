@@ -6,6 +6,10 @@
 - [Olimpíadas](https://exame.com/tecnologia/as-tecnologias-por-tras-da-olimpiada-2021/)
 - [Futebol Americano](https://www.espn.com/nfl/story/_/id/32338821/2021-nfl-analytics-survey-most-least-analytically-inclined-teams-future-gm-candidates-more)
 
+## Startups Curitibanas
+- [LogComex](https://revistapegn.globo.com/Startups/noticia/2021/08/logcomex-que-usa-inteligencia-artificial-no-comercio-exterior-levanta-r-536-milhoes.html)
+- [4KST](https://monitormercantil.com.br/startup-de-inteligencia-artificial-tera-acesso-ao-hub-de-dados-da-b3/)
+
 ### Vazamento de dados
 
 - [Twitch](https://g1.globo.com/tecnologia/noticia/2021/10/06/twitch-sofre-vazamento-de-dados.ghtml)
