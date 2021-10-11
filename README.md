@@ -28,7 +28,7 @@ em uma arquitetura local, em nuvem e virtual para diferentes contextos de negóc
 	* Hot Topic
 		- [Notícias e Assuntos relevantes](Books.md)
 	* Podcasts, filmes, novidades
-		- [Referências de dados](Data Movies and Podcasts.md)
+		- [Referências de dados](Data%20Movies%20and%20Podcasts.md)
 	* Hot Topic
 		- [Trilha de aprendizado](Hot Topic.md)
 
