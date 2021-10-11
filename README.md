@@ -30,7 +30,7 @@ em uma arquitetura local, em nuvem e virtual para diferentes contextos de negóc
 	* Podcasts, filmes, novidades
 		- [Referências de dados](Data%20Movies%20and%20Podcasts.md)
 	* Hot Topic
-		- [Trilha de aprendizado](Hot Topic.md)
+		- [Trilha de aprendizado](Hot%20Topic.md)
 
 
 
