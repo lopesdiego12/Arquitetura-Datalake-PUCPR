@@ -22,15 +22,15 @@ em uma arquitetura local, em nuvem e virtual para diferentes contextos de negóc
 ## 🛠 
 1. Detalhes do repositório 
 	* Aulas
-		- [Separação de vídeo x aula](Books.md)
+		- [Separação de vídeo x aula](Aulas.md)
 	* Livros
 		- [Bibliografia](Books.md)
 	* Hot Topic
 		- [Notícias e Assuntos relevantes](Books.md)
 	* Podcasts, filmes, novidades
-		- [Referências de dados](Books.md)
+		- [Referências de dados](Data Movies and Podcasts.md)
 	* Hot Topic
-		- [Trilha de aprendizado](Books.md)
+		- [Trilha de aprendizado](Hot Topic.md)
 
 
 
