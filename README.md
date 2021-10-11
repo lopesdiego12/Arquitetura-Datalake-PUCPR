@@ -20,6 +20,19 @@ em uma arquitetura local, em nuvem e virtual para diferentes contextos de negóc
 
 
 ## 🛠 
+1. Detalhes do repositório 
+	* Aulas
+		- [Separação de vídeo x aula](Books.md)
+	* Livros
+		- [Bibliografia](Books.md)
+	* Hot Topic
+		- [Notícias e Assuntos relevantes](Books.md)
+	* Podcasts, filmes, novidades
+		- [Referências de dados](Books.md)
+	* Hot Topic
+		- [Trilha de aprendizado](Books.md)
 
 
-🚧 
+
+
+:pencil2:  Created by [Diego Lopes](mailto:lopesdiego12@gmail.com)
