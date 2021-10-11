@@ -4,7 +4,7 @@ Repositório com detalhes da disciplina de arquitetura de datalake
 
 ## 📝  Disciplina
 Arquitetura datalake: extraindo valor dos dados
-### 🚧  Ementa:
+### :open_file_folder:  Ementa:
   Esta disciplina é destinada à análise da arquitetura de DataLake e sua jornada de implementação. Nela, os estudantes compreendem como organizar um DataLake em
 zonas identificando as diferenças de arquitetura e as dificuldades de segurança. Ao final da disciplina, os estudantes são capazes de explicar a jornada de implementação de um DataLake identificando seus beneficios em uma arquitetura local, em nuvem e virtual.
 
@@ -20,3 +20,6 @@ em uma arquitetura local, em nuvem e virtual para diferentes contextos de negóc
 
 
 ## 🛠 
+
+
+🚧 
