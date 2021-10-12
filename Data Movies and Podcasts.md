@@ -123,3 +123,4 @@
 - https://aws.amazon.com/pt/training/
 - https://cloud.google.com/training
 - https://docs.microsoft.com/pt-br/learn/azure/
+- https://www.cloudskillsboost.google/paths/16
