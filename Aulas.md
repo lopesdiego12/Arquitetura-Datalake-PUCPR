@@ -46,7 +46,6 @@
     - Pipeline, orquestração e transição dos dados;
     - Camadas de um Datalake;
     - Stakeholders
-
 [Gravação 6](https://www.dropbox.com/3eedbac3-a518-4d55-b871-b5f86e012191)
 - Detalhes (Sergio Roberto_6)
 - Tema:
@@ -78,4 +77,48 @@
     - Datalake X DataSwamp
 
 
+### Aula 03
+[Gravação 13](https://www.dropbox.com/1115f75b-0553-48b7-96a6-2f4d2871509d)
+[Gravação 14](https://www.dropbox.com/3b2ed7a0-0218-422c-8f36-357b89848b42)
+- Nome do arquivo (Sergio Roberto_13,Sergio Roberto_14)
+- Tema:
+    - Transformação Digital
 
+[Gravação 15](https://www.dropbox.com/83ea9874-3272-4281-9367-4ad1aa75160f)
+- Nome do arquivo (Sergio Roberto_15)
+- Tema:
+    - Hands on  Intro
+    - Automatização de processos
+    - Tradução do técnico para o negócio
+    - Tomadas de decisões através de dados
+
+[Gravação 16](https://www.dropbox.com/83ea9874-3272-4281-9367-4ad1aa75160f)
+[Gravação 17 ](https://www.dropbox.com/83ea9874-3272-4281-9367-4ad1aa75160f)
+- Nome do arquivo (Sergio Roberto_16,Sergio Roberto_17)
+- Tema:
+    - Azure data factory
+    - Stack de dados(Storage, WebServices, DBMS, API)
+    - Funcionamento da pipeline (Big data test arquivo)
+
+[Gravação 19](https://www.dropbox.com/f2de38a7-281d-4022-a0ea-dbbe822ce63e)
+[Gravação 20](https://www.dropbox.com/08980387-00dd-4225-8508-2acfb12b988f)
+- Nome do arquivo (Sergio Roberto_19,Sergio Roberto_20)
+- Tema:
+    - Serviços e conectores
+    - E-commerce
+    - Ingestão em SQL
+    - Precificação de serviços
+    - Integração com outros serviços de outra cloud
+
+### Aula 4
+[Gravação 23](https://www.dropbox.com/94434893-6d66-4ac8-8eb1-3ccd55b47c04)
+[Gravação 24](https://www.dropbox.com/08980387-00dd-4225-8508-2acfb12b988f)
+- Nome do arquivo (Sergio Roberto_23,Sergio Roberto_24)
+- Tema:
+    - Literatura
+    - Cursos
+    - Artigos
+[Gravação 25](https://www.dropbox.com/08980387-00dd-4225-8508-2acfb12b988f)
+- Nome do arquivo (Sergio Roberto_25)
+- Tema:
+    - Recomendações finais
