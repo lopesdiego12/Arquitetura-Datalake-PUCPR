@@ -22,7 +22,7 @@
 - [Setor Públivo - Governo do Ceará](https://www.ceara.gov.br/2021/09/13/evento-data-gov-day-2021-debate-sobre-uma-nova-cultura-organizacional-analitica-para-o-setor-publico/)
 - [Agronegócio](https://revistaforum.com.br/debates/inteligencia-artificial-agronegocio-e-sustentabilidade-por-ana-beatriz-prudente-alckmin-e-fernando-neisser/)
 - [Fintech](https://exame.com/future-of-money/fintech/com-ai-big-data-e-blockchain-fintech-brasileira-cresce-no-mercado-de-credito/)
-- [Demissão)(https://www.tecmundo.com.br/mercado/222501-startup-demite-empregados-big-data-ceo-polemiza-improdutivos.htm)
+- [Demissão](https://www.tecmundo.com.br/mercado/222501-startup-demite-empregados-big-data-ceo-polemiza-improdutivos.htm)
 
 ## Startups Curitibanas
 - [LogComex](https://revistapegn.globo.com/Startups/noticia/2021/08/logcomex-que-usa-inteligencia-artificial-no-comercio-exterior-levanta-r-536-milhoes.html)
