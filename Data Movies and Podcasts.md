@@ -132,16 +132,15 @@
 Arquitetura Datalake Referência AWS
 
 - https://docs.aws.amazon.com/solutions/latest/data-lake-solution/data-lake-solution.pdf#architecture
-- 
-Arquitetura Datalake Referência Azure
 
+Arquitetura Datalake Referência Azure
 - https://docs.microsoft.com/pt-br/azure/architecture/example-scenario/data/data-warehouse
 - https://download.microsoft.com/download/A/4/D/A4DAD253-BC21-41D3-B9D9-87D2AE6F0719/Microsoft_Azure_IoT_Reference_Architecture.pdf
-- 
+
 Arquitetura Datalake Databricks+Azure
 
 - https://docs.microsoft.com/pt-br/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture
-- 
+
 Arquitetura Datalake Referência GCP
 
 - https://cloud.google.com/architecture/build-a-data-lake-on-gcp
