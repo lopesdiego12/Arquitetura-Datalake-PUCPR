@@ -88,6 +88,10 @@
 - [Airbnb Data Engineer](https://airbnb.io/)
 
 
+## Comparativo de serviços Cloud
+
+https://comparecloud.in/
+
 ## Casos de Uso - Big Data/ Datalake
 
 
