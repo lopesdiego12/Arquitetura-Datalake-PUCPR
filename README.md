@@ -17,7 +17,7 @@
 	Analisar a jornada de implementação de um DataLake identificando seus beneficios em uma arquitetura local, em nuvem e virtual para diferentes contextos de negócios.
 
 ## 👨🏻‍🔧 Detalhes do professor
-	Diego / Professor/ Detalhista / Boleiro / Marido / Pai / Baixista / AWS Community Builder/ Arquiteto - Engenheiro - Gerente de dados/
+	Diego / Professor/ Detalhista / Boleiro / Marido / Pai / Baixista / Garçom/ AWS Community Builder/ Arquiteto de Dados/ Engenheiro de Dados/ Gerente de dados/
 
 
 ## 🛠  Detalhes do repositório
