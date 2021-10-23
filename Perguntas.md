@@ -85,6 +85,7 @@ R: D
 		c) Extension, Transform, Load
 		d) Extend, Transform, Load
 R:B
+
 	14)   Quais são os Top 3 Cloud providers da atualidade considerando market share?
 	
 		a) Amazon Web Services, Microsoft Azure, Google Cloud Plataform
