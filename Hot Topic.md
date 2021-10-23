@@ -5,6 +5,8 @@
 - [Twitch](https://g1.globo.com/tecnologia/noticia/2021/10/06/twitch-sofre-vazamento-de-dados.ghtml)
 - [Pix Banco Central](https://www.cnnbrasil.com.br/business/banco-central-comunica-1o-vazamento-de-dados-cadastrais-do-pix/)
 - [Facebook](https://www.istoedinheiro.com.br/vazamento-do-facebook-expos-dados-de-15-bilhao-de-usuarios-a-criminosos/)
+- [Copel](https://minutodaseguranca.blog.br/eletrobras-e-copel-sao-atingidas-por-ataques-de-ransomware/#:~:text=Vazamento%20de%20dados%20na%20Copel,alta%20administra%C3%A7%C3%A3o%20e%20dos%20clientes)
+- [Renner](https://gauchazh.clicrbs.com.br/colunistas/giane-guerra/noticia/2021/10/renner-responde-ao-procon-sp-sobre-impacto-do-ataque-hacker-nos-dados-de-clientes-cku8jfmkg004s017fjje1jyqg.html)
 
 ### LGPD
 
